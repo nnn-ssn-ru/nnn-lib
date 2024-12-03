@@ -1,2 +1,2 @@
 # Библиотека для win12
-[Скачать](httpz://github.com/nnn-ssn-ru/nnn-lib)
+[Скачать](https://github.com/nnn-ssn-ru/nnn-lib/raw/refs/heads/main/nnn-lib.cs)
